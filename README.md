@@ -49,7 +49,7 @@
 
 ---
 
-<p align="center">📫 Открыт к интересным задачам и сотрудничеству — пишите в <a href="https://t.me/sanchellaZZZ">Telegram</a>.</p>
+<p align="center">📫 По проектам и вопросам — пишите в <a href="https://t.me/sanchellaZZZ">Telegram</a>.</p>
 
 <details>
 <summary>🇬🇧 English</summary>
@@ -69,6 +69,6 @@ I build tools that solve real problems, from a deepfake detector to a web servic
 
 **Closed-source (NDA)** — enterprise tooling at a major bank: an AI assistant for auditors (FastAPI · LLM · RAG · PySpark), an AI presentation generator (Next.js · LLM), a code-compliance auditor (RAG), and a Kanban board for audit teams (Flask · React · Greenplum).
 
-📫 Open to interesting work — reach me on [Telegram](https://t.me/sanchellaZZZ).
+📫 Questions or collaboration — reach me on [Telegram](https://t.me/sanchellaZZZ).
 
 </details>
