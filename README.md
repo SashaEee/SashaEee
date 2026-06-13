@@ -47,6 +47,12 @@
 - **Канбан для команд аудита** — задачи, KPI-отчёты, e-mail-уведомления, AI-помощник · `Flask` `React` `Greenplum`
 - **Парсер реестра банкротств (ЕФРСБ)** — выгрузка данных в Excel · `Playwright` `pandas`
 
+### 🧮 Языки
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashaEee&layout=compact&hide_border=true&hide=c,objective-c&langs_count=6&title_color=D85A30&icon_color=0F6E56" />
+</p>
+
 ---
 
 <p align="center">📫 По проектам и вопросам — пишите в <a href="https://t.me/sanchellaZZZ">Telegram</a>.</p>
