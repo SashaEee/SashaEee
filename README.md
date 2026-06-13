@@ -37,6 +37,18 @@
 | **[kadastr](https://github.com/SashaEee/kadastr)** | Пайплайн данных Росреестра: координаты, адреса и площади из Excel + нормализация адресов (Pullenti) | `pandas` `geocoding` |
 | **[tiktok_parser](https://github.com/SashaEee/tiktok_parser)** | Модульный OSINT-инструмент для TikTok: сбор описаний и комментариев, минимизация PII, выгрузка в JSONL/Postgres | `yt-dlp` `OSINT` |
 
+### 🔒 Корпоративные проекты (закрытый код, NDA)
+
+Часть работы — внутренние enterprise-инструменты в крупном банке, которые нельзя выложить в открытый доступ. О масштабе:
+
+- **AI-ассистент для аудиторов** — запросы на естественном языке → выполнение «навыков» поверх Spark/Hive, выгрузки на сотни тысяч строк, RAG по регламентам · `FastAPI` `LLM` `RAG` `PySpark`
+- **AI-генератор презентаций** — деки из текста корпоративным LLM, экспорт в PPTX · `Next.js` `FastAPI` `LLM`
+- **Комплаенс-аудит кода** — проверка кодовых баз на соответствие внутренним требованиям через RAG-агент · `FastAPI` `RAG`
+- **Канбан для команд аудита** — задачи, KPI-отчёты, e-mail-уведомления, AI-помощник · `Flask` `React` `Greenplum`
+- **Парсер реестра банкротств (ЕФРСБ)** — выгрузка данных в Excel · `Playwright` `pandas`
+
+---
+
 <p align="center">📫 Открыт к интересным задачам и сотрудничеству — пишите в <a href="https://t.me/sanchellaZZZ">Telegram</a>.</p>
 
 <details>
@@ -54,6 +66,8 @@ I build tools that solve real problems, from a deepfake detector to a web servic
 - **[diploma_deepfake](https://github.com/SashaEee/diploma_deepfake)** — deepfake video detector (EfficientNet-B0 + Dilated TCN + ArcFace) with online domain adaptation and a FastAPI demo. `PyTorch · CV`
 - **[kadastr](https://github.com/SashaEee/kadastr)** — Rosreestr cadastral data pipeline; coords/addresses/areas from Excel + address normalization. `pandas`
 - **[tiktok_parser](https://github.com/SashaEee/tiktok_parser)** — modular TikTok OSINT tool; descriptions & comments, PII minimization, JSONL/Postgres sinks. `yt-dlp`
+
+**Closed-source (NDA)** — enterprise tooling at a major bank: an AI assistant for auditors (FastAPI · LLM · RAG · PySpark), an AI presentation generator (Next.js · LLM), a code-compliance auditor (RAG), and a Kanban board for audit teams (Flask · React · Greenplum).
 
 📫 Open to interesting work — reach me on [Telegram](https://t.me/sanchellaZZZ).
 
