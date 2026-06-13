@@ -34,15 +34,8 @@
 | **[RoboVoice](https://github.com/SashaEee/Trouver_audio_install)** | Веб-интерфейс для смены голоса робота-пылесоса Trouver/Dreame/Mova: готовые паки или своя озвучка, без рута и платных сервисов | `Flask` `JS` `Docker` |
 | **[auditLens](https://github.com/SashaEee/auditLens)** | LLM-агент c RAG для внутреннего аудита банковских продуктов: отчёты со ссылками-источниками, экспорт в PDF, pgvector | `LLM` `RAG` `Postgres` |
 | **[diploma_deepfake](https://github.com/SashaEee/diploma_deepfake)** | Детектор дипфейк-видео (EfficientNet-B0 + Dilated TCN + ArcFace) с доменной адаптацией и FastAPI-демо | `PyTorch` `CV` `FastAPI` |
-| **[kadastr](https://github.com/SashaEee/kadastr)** ⭐2 | Пайплайн данных Росреестра: координаты, адреса и площади из Excel + нормализация адресов (Pullenti) | `pandas` `geocoding` |
+| **[kadastr](https://github.com/SashaEee/kadastr)** | Пайплайн данных Росреестра: координаты, адреса и площади из Excel + нормализация адресов (Pullenti) | `pandas` `geocoding` |
 | **[tiktok_parser](https://github.com/SashaEee/tiktok_parser)** | Модульный OSINT-инструмент для TikTok: сбор описаний и комментариев, минимизация PII, выгрузка в JSONL/Postgres | `yt-dlp` `OSINT` |
-
-### 📊 Статистика
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SashaEee&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=D85A30&icon_color=0F6E56" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashaEee&layout=compact&hide_border=true&langs_count=8&title_color=D85A30" />
-</p>
 
 <p align="center">📫 Открыт к интересным задачам и сотрудничеству — пишите в <a href="https://t.me/sanchellaZZZ">Telegram</a>.</p>
 
