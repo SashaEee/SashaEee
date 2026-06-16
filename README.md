@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://t.me/sanchellaZZZ"><img src="https://img.shields.io/badge/Telegram-@sanchellaZZZ-26A5E4?style=flat&logo=telegram&logoColor=white"></a>
   <a href="mailto:shuny.232002@gmail.com"><img src="https://img.shields.io/badge/Email-shuny.232002@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://hh.ru/resume/3b6e1320ff0eb753e40039ed1f4c3658643837"><img src="https://img.shields.io/badge/Резюме-hh.ru-D6001C?style=flat&logo=hh&logoColor=white"></a>
 </p>
 
 ---
