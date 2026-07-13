@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Саша · Python / Backend / ML Engineer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SashaEee/SashaEee/main/assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SashaEee/SashaEee/main/assets/header-light.svg">
+    <img width="100%" alt="Саша · Python / Backend / ML Engineer" src="https://raw.githubusercontent.com/SashaEee/SashaEee/main/assets/header-dark.svg">
+  </picture>
 </p>
 
 <p align="center">
