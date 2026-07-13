@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 190" fill="none" role="img" aria-label="Саша — Python / Backend / ML Engineer">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0F6E56"/>
+      <stop offset="1" stop-color="#D85A30"/>
+    </linearGradient>
+    <radialGradient id="glowTeal" cx="0.12" cy="0.18" r="0.65">
+      <stop offset="0" stop-color="#0F6E56" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0F6E56" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowOrange" cx="0.92" cy="0.95" r="0.7">
+      <stop offset="0" stop-color="#D85A30" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#D85A30" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="reveal">
+      <rect x="42" y="128" width="0" height="34">
+        <animate attributeName="width" from="0" to="760" dur="1.9s" begin="0.4s" fill="freeze"
+                 calcMode="spline" keyTimes="0;1" keySplines="0.2 0.75 0.25 1" values="0;760"/>
+      </rect>
+    </clipPath>
+    <style>
+      .title  { font: 700 44px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #e6edf3; }
+      .kicker { font: 600 15px 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; fill: #3fb98f; letter-spacing: 3px; }
+      .handle { font: 600 14px 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; fill: #56707f; letter-spacing: 1px; }
+      .sub    { font: 400 20px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #9aa7b4; }
+    </style>
+  </defs>
+
+  <rect width="880" height="190" rx="16" fill="#0d1117"/>
+  <rect width="880" height="190" rx="16" fill="url(#glowTeal)">
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="880" height="190" rx="16" fill="url(#glowOrange)">
+    <animate attributeName="opacity" values="1;0.72;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="0" width="880" height="4" fill="url(#accent)"/>
+
+  <text x="44" y="54" class="kicker">PYTHON · BACKEND · ML</text>
+  <text x="836" y="54" text-anchor="end" class="handle">@SashaEee</text>
+
+  <text x="44" y="104" class="title">Привет, я Саша 👋</text>
+  <rect x="46" y="118" width="0" height="4" rx="2" fill="url(#accent)">
+    <animate attributeName="width" from="0" to="300" dur="0.9s" begin="0.2s" fill="freeze"
+             calcMode="spline" keyTimes="0;1" keySplines="0.2 0.75 0.25 1" values="0;300"/>
+  </rect>
+
+  <g clip-path="url(#reveal)">
+    <text x="44" y="151" class="sub">ML &amp; RAG-агенты · дата-пайплайны · парсинг · автоматизация</text>
+  </g>
+</svg>
