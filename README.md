@@ -49,7 +49,7 @@
 ### 🧮 Языки
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashaEee&layout=compact&hide_border=true&hide=c,objective-c&langs_count=6&title_color=D85A30&icon_color=0F6E56" />
+  <img height="150" src="https://github-readme-stats-git-master-sasha24eee.vercel.app/api/top-langs/?username=SashaEee&layout=compact&hide_border=true&hide=c,objective-c&langs_count=6&title_color=D85A30&icon_color=0F6E56" />
 </p>
 
 ---
